@@ -4,37 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>ROY AI Assistant - Part 1</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #121212;
-      color: #f0f0f0;
-      line-height: 1.6;
-      padding: 20px;
-    }
-    h1, h2, h3 {
-      color: #00ffff;
-    }
-    a {
-      color: #00bfff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    img {
-      max-width: 100%;
-    }
-    code, pre {
-      background-color: #222;
-      padding: 10px;
-      display: block;
-      overflow-x: auto;
-    }
-    .section {
-      margin-bottom: 40px;
-    }
-  </style>
+  
 </head>
 <body>
   <h1> ROY AI - Your Personal Desktop Assistant (Part 1)</h1>
